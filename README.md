@@ -1,2 +1,2 @@
 # crio
-Crio Spring PRojects
+Crio Spring Projects
